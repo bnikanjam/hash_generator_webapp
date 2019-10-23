@@ -1,2 +1,4 @@
-# hash_webapp
+# Hash Generator
 WebApp to generate secure hashes
+---
+
